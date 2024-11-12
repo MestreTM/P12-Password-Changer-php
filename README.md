@@ -1,5 +1,5 @@
 
-# PHP API for p12Certificate Password Management
+# PHP API for p12 Certificate Password Management
 
 This PHP API allows users to change the password of `.p12` certificate files. The API accepts a POST request with the `.p12` certificate file and both current and new passwords, returning a new certificate file with the updated password.
 
