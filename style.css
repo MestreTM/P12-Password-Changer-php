@@ -1,4 +1,3 @@
-/* Estilos básicos */
 * {
     box-sizing: border-box;
     margin: 0;
@@ -7,8 +6,8 @@
 }
 
 body {
-    background-color: #121212; /* Fundo escuro */
-    color: #e0e0e0; /* Texto claro para legibilidade */
+    background-color: #121212;
+    color: #e0e0e0;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -16,7 +15,7 @@ body {
 }
 
 .container {
-    background-color: #1e1e1e; /* Cor de fundo do container um pouco mais clara */
+    background-color: #1e1e1e;
     padding: 20px 40px;
     border-radius: 8px;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
@@ -44,7 +43,7 @@ body {
     border-radius: 4px;
     border: 1px solid #444;
     font-size: 14px;
-    background-color: #333; /* Fundo escuro para o dropdown */
+    background-color: #333;
     color: #e0e0e0;
 }
 
@@ -98,7 +97,7 @@ input[type="password"] {
     margin-top: 5px;
     border: 1px solid #555;
     border-radius: 4px;
-    background-color: #333; /* Fundo escuro para campos de entrada */
+    background-color: #333;
     color: #e0e0e0;
 }
 
